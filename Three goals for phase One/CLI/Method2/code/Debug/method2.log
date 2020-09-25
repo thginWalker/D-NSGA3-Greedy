@@ -1,0 +1,39 @@
+﻿  alg_comparator.cpp
+  alg_crossover.cpp
+  alg_environmental_selection.cpp
+  alg_individual.cpp
+H:\Code\Method2\code\src\alg_environmental_selection.cpp(352,20): warning C4018:  “<”: 有符号/无符号不匹配
+H:\Code\Method2\code\src\alg_individual.cpp(29,20): warning C4018:  “<”: 有符号/无符号不匹配
+H:\Code\Method2\code\src\alg_individual.cpp(34,20): warning C4018:  “<”: 有符号/无符号不匹配
+  alg_initialization.cpp
+H:\Code\Method2\code\src\alg_individual.cpp(43,20): warning C4018:  “<”: 有符号/无符号不匹配
+  alg_mutation.cpp
+H:\Code\Method2\code\src\alg_initialization.cpp(18,20): warning C4018:  “<”: 有符号/无符号不匹配
+  alg_nondominated_sort.cpp
+  alg_nsgaiii.cpp
+H:\Code\Method2\code\src\alg_mutation.cpp(22,23): warning C4018:  “<”: 有符号/无符号不匹配
+H:\Code\Method2\code\src\alg_nsgaiii.cpp(108,19): warning C4101:  “update”: 未引用的局部变量
+H:\Code\Method2\code\src\alg_nsgaiii.cpp(155,19): warning C4101:  “update”: 未引用的局部变量
+  alg_reference_point.cpp
+  aux_math.cpp
+  aux_misc.cpp
+  exp_experiment.cpp
+  exp_indicator.cpp
+  gnuplot_interface.cpp
+  log.cpp
+  main.cpp
+  print_data.cpp
+  problem_DTLZ.cpp
+  problem_ZDT.cpp
+  problem_factory.cpp
+  正在生成代码...
+  正在编译...
+  problem_self.cpp
+H:\Code\Method2\code\src\alg_nsgaiii.cpp(282,20): warning C4018:  “<”: 有符号/无符号不匹配
+  update_chromosome.cpp
+H:\Code\Method2\code\src\problem_self.cpp(104,79): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+H:\Code\Method2\code\src\update_chromosome.cpp(212,22): warning C4018:  “<”: 有符号/无符号不匹配
+H:\Code\Method2\code\src\update_chromosome.cpp(264,21): warning C4018:  “<”: 有符号/无符号不匹配
+  正在生成代码...
+H:\Code\Method2\code\src\update_chromosome.cpp(269,23): warning C4018:  “<”: 有符号/无符号不匹配
+  method2.vcxproj -> H:\Code\Method2\code\Debug\method2.exe

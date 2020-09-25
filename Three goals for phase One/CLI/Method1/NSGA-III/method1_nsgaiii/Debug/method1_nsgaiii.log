@@ -1,0 +1,25 @@
+﻿  alg_comparator.cpp
+  alg_crossover.cpp
+  alg_environmental_selection.cpp
+  alg_individual.cpp
+  alg_initialization.cpp
+  alg_mutation.cpp
+H:\Code\Method1\NSGA-III\method1_nsgaiii\src\alg_initialization.cpp(17,20): warning C4018:  “<”: 有符号/无符号不匹配
+  alg_nondominated_sort.cpp
+  alg_nsgaiii.cpp
+  alg_reference_point.cpp
+  aux_math.cpp
+  aux_misc.cpp
+  exp_experiment.cpp
+  exp_indicator.cpp
+  gnuplot_interface.cpp
+  log.cpp
+  main.cpp
+  problem_DTLZ.cpp
+  problem_factory.cpp
+  problem_self.cpp
+H:\Code\Method1\NSGA-III\method1_nsgaiii\src\alg_mutation.cpp(21,23): warning C4018:  “<”: 有符号/无符号不匹配
+  problem_ZDT.cpp
+  正在生成代码...
+H:\Code\Method1\NSGA-III\method1_nsgaiii\src\problem_self.cpp(83,78): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+  method1_nsgaiii.vcxproj -> H:\Code\Method1\NSGA-III\method1_nsgaiii\Debug\method1_nsgaiii.exe
